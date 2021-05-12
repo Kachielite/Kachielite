@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Derrick.
 
 ---
-![Twitter Follow](https://img.shields.io/twitter/follow/derrickachi?style=flat-square) ![GitHub followers](https://img.shields.io/github/followers/kachielite?style=flat-square) ![GitHub User's stars](https://img.shields.io/github/stars/kachielite?style=flat-square)
+[![Twitter Follow](https://img.shields.io/twitter/follow/derrickachi?label=Twitter%20followers&style=social)](https://twitter.com/derrickachi) ![GitHub followers](https://img.shields.io/github/followers/kachielite?label=Github%20followers&style=social) ![GitHub User's stars](https://img.shields.io/github/stars/kachielite?label=my%20Github%20stars&style=flat-square)
 
 A self-taught FrontEnd Developer specializing in Javascript technologies and a Support Enginner. Professional experience with troubleshooting software issues (installation,upgrade and functinality), Linux OS (Ubuntu, CentOS, RHEL), Windows OS, Databases (Oracle, MSSQL,MySQL,Postgres) and I build projects with the technologies listed in the toolbox below.
 
