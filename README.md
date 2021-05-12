@@ -3,7 +3,7 @@
 ---
 ![Twitter Follow](https://img.shields.io/twitter/follow/derrickachi?style=flat-square) ![GitHub followers](https://img.shields.io/github/followers/kachielite?style=flat-square) ![GitHub User's stars](https://img.shields.io/github/stars/kachielite?style=flat-square)
 
-A self-taught FrontEnd Developer specializing in Javascript technologies and Support Enginner. Professional experience with troubleshooting software issues (installation,upgrade and functinality), Linux OS (Ubuntu, CentOS, RHEL), Windows OS, Databases (Oracle, MSSQL,MySQL,Postgres) and I build projects with technologies listed in the toolbox below.
+A self-taught FrontEnd Developer specializing in Javascript technologies and a Support Enginner. Professional experience with troubleshooting software issues (installation,upgrade and functinality), Linux OS (Ubuntu, CentOS, RHEL), Windows OS, Databases (Oracle, MSSQL,MySQL,Postgres) and I build projects with the technologies listed in the toolbox below.
 
 ---
 
