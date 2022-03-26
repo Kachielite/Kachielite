@@ -15,7 +15,7 @@ A self-taught FrontEnd Developer specializing in Javascript technologies and a S
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kachielite&hide=java,python&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kachielite&hide=python&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kachielite&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
