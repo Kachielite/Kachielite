@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Derrick.
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I am Derrick.
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/derrickachi?label=Twitter%20followers&style=social)](https://twitter.com/derrickachi) ![GitHub followers](https://img.shields.io/github/followers/kachielite?label=Github%20followers&style=social) ![GitHub User's stars](https://img.shields.io/github/stars/kachielite?label=my%20Github%20stars&style=flat-square)
