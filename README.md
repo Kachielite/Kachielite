@@ -10,7 +10,7 @@ A software developer specializing in Javascript technologies. Professional exper
 - 🌱 I’m currently learning backend with NodeJS
 - 👯 I’m looking to collaborate on open source project and great ideas
 - 💬 Ask me about ReactJS, Databases, OS
-- 📫 How to reach me: ![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fderrickachi)
+- 📫 How to reach me: derrick.onyekachi@gmail.com
 - ⚡ Fun fact: I love playing video games and public speaking especially about tech.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kachielite)](https://github.com/ryo-ma/github-profile-trophy)
