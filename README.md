@@ -3,6 +3,8 @@
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/derrickachi?label=Twitter%20followers&style=social)](https://twitter.com/derrickachi) ![GitHub followers](https://img.shields.io/github/followers/kachielite?label=Github%20followers&style=social) ![GitHub User's stars](https://img.shields.io/github/stars/kachielite?label=my%20Github%20stars&style=flat-square) ![GitHub Profile Views ](https://komarev.com/ghpvc/?username=charliepoker&label=Profile%20views&color=0e75b6&style=flat)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kachielite)](https://github.com/ryo-ma/github-profile-trophy)
+
 A software developer specializing in Javascript technologies. Professional experience with troubleshooting software issues (installation,upgrade and functinality), Linux OS (Ubuntu, CentOS, RHEL), Windows OS, Databases (Oracle, MSSQL,MySQL,Postgres) and I build projects with the technologies listed in the toolbox below.
 
 
@@ -12,8 +14,6 @@ A software developer specializing in Javascript technologies. Professional exper
 - 💬 Ask me about ReactJS, Databases, OS
 - 📫 How to reach me: derrick.onyekachi@gmail.com
 - ⚡ Fun fact: I love playing video games and public speaking especially about tech.
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kachielite)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
