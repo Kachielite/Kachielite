@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I am Derrick.
 
 ---
-[![Twitter Follow](https://img.shields.io/twitter/follow/derrickachi?label=Twitter%20followers&style=social)](https://twitter.com/derrickachi) ![GitHub followers](https://img.shields.io/github/followers/kachielite?label=Github%20followers&style=social) ![GitHub User's stars](https://img.shields.io/github/stars/kachielite?label=my%20Github%20stars&style=flat-square) ![GitHub Profile Views ](https://komarev.com/ghpvc/?username=charliepoker&label=Profile%20views&color=0e75b6&style=flat)
+[![Twitter Follow](https://img.shields.io/twitter/follow/derrickachi?label=Twitter%20followers&style=social)](https://twitter.com/derrickachi) ![GitHub followers](https://img.shields.io/github/followers/kachielite?label=Github%20followers&style=social) ![GitHub User's stars](https://img.shields.io/github/stars/kachielite?label=my%20Github%20stars&style=flat-square) ![GitHub Profile Views ](https://komarev.com/ghpvc/?username=charliepoker&label=Profile%20views&color=0e75b6&style=flat) [![wakatime](https://wakatime.com/badge/user/59c0be4d-2b58-4d30-acc5-448b044b8b55.svg)](https://wakatime.com/@59c0be4d-2b58-4d30-acc5-448b044b8b55)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kachielite)](https://github.com/ryo-ma/github-profile-trophy)
 
