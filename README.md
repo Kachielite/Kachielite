@@ -29,8 +29,6 @@ A software developer specializing in Javascript technologies. Professional exper
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kachielite&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kachielite)
 
-## &#x1f4c8; My Wakatime Stats
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kachielite)](https://github.com/kachielite/github-readme-stats)
 
 
 <!--
