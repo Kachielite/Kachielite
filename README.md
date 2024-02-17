@@ -5,10 +5,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kachielite)](https://github.com/ryo-ma/github-profile-trophy)
 
-A software developer specializing in Javascript technologies. Professional experience with troubleshooting software issues (installation,upgrade and functinality), Linux OS (Ubuntu, CentOS, RHEL), Windows OS, Databases (Oracle, MSSQL,MySQL,Postgres) and I build projects with the technologies listed in the toolbox below.
+A software developer specializing in Javascript and Java technologies. Professional experience with troubleshooting software issues (installation,upgrade and functinality), Linux OS (Ubuntu, CentOS, RHEL), Windows OS, Databases (Oracle, MSSQL,MySQL,Postgres) and I build projects with the technologies listed in the toolbox below.
 
 
-- 🔭 I’m currently working on building a blog using NodeJs
+- 🔭 I’m currently working on building a blog using Java
 - 🌱 I’m currently learning backend with NodeJS
 - 👯 I’m looking to collaborate on open source project and great ideas
 - 💬 Ask me about ReactJS, Databases, OS
