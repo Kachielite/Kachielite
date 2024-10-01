@@ -14,34 +14,36 @@ A **Senior Frontend Engineer** with expertise in **JavaScript**, **Java**, and *
 📫 How to reach me: [derrick.onyekachi@gmail.com](mailto:derrick.onyekachi@gmail.com)  
 ⚡ Fun fact: I love **video games** and enjoy **public speaking**, especially about technology.  
 
+### 🚀 Featured Projects
+- [**DigiPurse**](https://github.com/your-repo-link): A wallet system designed for developers, offering features like user management, transaction processing, and loyalty points.
+- [**Blogger Planet**](https://github.com/Kachielite/blogger): A blogging platform enabling bloggers to create, collaborate, and share their content. Built using SprintBoot, and Java.
+- [**Movie Planet**](https://github.com/Kachielite/movie-app): A movie application that allows users to explore a vast catalog of movies with detailed information, cast, crew, reviews, and recommendations.
+
+
+### 📚 Latest Blog Posts
+- [Form Handling with Formik and Yup in React: A Comprehensive Guide](https://kachi-dev.hashnode.dev/form-handling-with-formik-and-yup-in-react-a-comprehensive-guide)
+- [Type Annotation VS Type Inference](https://kachi-dev.hashnode.dev/type-annotation-vs-type-inference)
+
+
 
 ---
 
-🧰 Toolbox
+### 🛠️ Technologies & Tools:
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html-icon" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css-icon" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="bootstrap-icon" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="material-ui-icon" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascrip-icon" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react-icon" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" alt="npm-icon" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" alt="yarn-icon" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="node-icon" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
+
 
 ---
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kachielite&hide=python&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kachielite&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kachielite)
 
 
 
-<!--
-**Kachielite/Kachielite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
