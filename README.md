@@ -14,18 +14,6 @@ A **Senior Frontend Engineer** with expertise in **JavaScript**, **Java**, and *
 📫 How to reach me: [derrick.onyekachi@gmail.com](mailto:derrick.onyekachi@gmail.com)  
 ⚡ Fun fact: I love **video games** and enjoy **public speaking**, especially about technology.  
 
-### 🚀 Featured Projects
-- [**DigiPurse**](https://github.com/your-repo-link): A wallet system designed for developers, offering features like user management, transaction processing, and loyalty points.
-- [**Blogger Planet**](https://github.com/Kachielite/blogger): A blogging platform enabling bloggers to create, collaborate, and share their content. Built using SprintBoot, and Java.
-- [**Movie Planet**](https://github.com/Kachielite/movie-app): A movie application that allows users to explore a vast catalog of movies with detailed information, cast, crew, reviews, and recommendations.
-
-
-### 📚 Latest Blog Posts
-- [Form Handling with Formik and Yup in React: A Comprehensive Guide](https://kachi-dev.hashnode.dev/form-handling-with-formik-and-yup-in-react-a-comprehensive-guide)
-- [Type Annotation VS Type Inference](https://kachi-dev.hashnode.dev/type-annotation-vs-type-inference)
-
-
-
 ---
 
 ### 🛠️ Technologies & Tools:
@@ -38,6 +26,17 @@ A **Senior Frontend Engineer** with expertise in **JavaScript**, **Java**, and *
 
 
 ---
+
+### 🚀 Featured Projects
+- [**DigiPurse**](https://github.com/your-repo-link): A wallet system designed for developers, offering features like user management, transaction processing, and loyalty points.
+- [**Blogger Planet**](https://github.com/Kachielite/blogger): A blogging platform enabling bloggers to create, collaborate, and share their content. Built using SprintBoot, and Java.
+- [**Movie Planet**](https://github.com/Kachielite/movie-app): A movie application that allows users to explore a vast catalog of movies with detailed information, cast, crew, reviews, and recommendations.
+
+
+### 📚 Latest Blog Posts
+- [Form Handling with Formik and Yup in React: A Comprehensive Guide](https://kachi-dev.hashnode.dev/form-handling-with-formik-and-yup-in-react-a-comprehensive-guide)
+- [Type Annotation VS Type Inference](https://kachi-dev.hashnode.dev/type-annotation-vs-type-inference)
+
 
 ## &#x1f4c8; My GitHub Stats
 
