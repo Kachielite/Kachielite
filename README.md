@@ -5,15 +5,15 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kachielite)](https://github.com/ryo-ma/github-profile-trophy)
 
-A software developer specializing in Javascript and Java technologies. Professional experience with troubleshooting software issues (installation,upgrade and functinality), Linux OS (Ubuntu, CentOS, RHEL), Windows OS, Databases (Oracle, MSSQL,MySQL,Postgres) and I build projects with the technologies listed in the toolbox below.
+A **Senior Frontend Engineer** with expertise in **JavaScript**, **Java**, and **Python**, I specialize in building high-performance, visually appealing user interfaces and scalable solutions. With a strong background in **ReactJS**, **Next.js**, and **Spring Boot**, I've worked on various projects from business mini-apps to payment tracking systems, improving web performance and implementing full-stack solutions.
 
+🔭 I’m currently working on **DigiPurse**, a wallet system for developers, and a blog platform using **Spring Boot**.  
+🌱 I’m expanding my backend skills with **FastAPI** and **Node.js**.  
+👯 I’m looking to collaborate on open-source projects and innovative ideas.  
+💬 Ask me about **ReactJS**, **Next.js**, **Java**, **Python**, or full-stack development.  
+📫 How to reach me: [derrick.onyekachi@gmail.com](mailto:derrick.onyekachi@gmail.com)  
+⚡ Fun fact: I love **video games** and enjoy **public speaking**, especially about technology.  
 
-- 🔭 I’m currently working on building a blog using Java
-- 🌱 I’m currently learning backend with NodeJS
-- 👯 I’m looking to collaborate on open source project and great ideas
-- 💬 Ask me about ReactJS, Databases, OS
-- 📫 How to reach me: derrick.onyekachi@gmail.com
-- ⚡ Fun fact: I love playing video games and public speaking especially about tech.
 
 ---
 
