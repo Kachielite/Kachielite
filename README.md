@@ -28,7 +28,7 @@ A **Senior Frontend Engineer** with expertise in **JavaScript**, **Java**, and *
 ---
 
 ### 🚀 Featured Projects
-- [**DigiPurse**](https://github.com/your-repo-link): A wallet system designed for developers, offering features like user management, transaction processing, and loyalty points.
+- [**DigiPurse**]([https://github.com/your-repo-link](https://github.com/Kachielite/digi-purse)): A wallet system designed for developers, offering features like user management, transaction processing, and loyalty points.
 - [**Blogger Planet**](https://github.com/Kachielite/blogger): A blogging platform enabling bloggers to create, collaborate, and share their content. Built using SprintBoot, and Java.
 - [**Movie Planet**](https://github.com/Kachielite/movie-app): A movie application that allows users to explore a vast catalog of movies with detailed information, cast, crew, reviews, and recommendations.
 
