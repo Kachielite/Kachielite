@@ -17,6 +17,7 @@
 ---
 
 I design and build **scalable, high-performance web applications and backend systems**.  
+
 With over **7 years of experience**, I’ve led and contributed to products that empower businesses and developers — combining strong architecture, great UX, and measurable performance improvements.
 
 I care deeply about **clarity in design**, **data privacy**, and building systems people can trust.
@@ -66,9 +67,9 @@ An **AI-powered tool** that extracts structured financial data using LLMs and re
   <img width="48%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kachielite&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kachielite&theme=github-dark&hide_border=true&area=true" />
-</p>
+</p> -->
 
 ---
 
