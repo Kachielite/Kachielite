@@ -2,7 +2,6 @@
 
 **Senior Software Engineer | React, Next.js, Node.js, NestJS, FastAPI**
 
-[![Portfolio](https://img.shields.io/badge/🌐-kachielite.dev-0A0A0A?style=flat&logo=vercel&logoColor=white)](https://kachielite.dev)
 [![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/derrickmadumere)
 [![Email](https://img.shields.io/badge/✉️-derrick.onyekachi@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:derrick.onyekachi@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=Kachielite&label=Profile+Views&color=555555&style=flat)
@@ -89,6 +88,5 @@ or refining the products I’ve launched to make them faster and more intuitive.
 ---
 
 ## 📫 **Let’s Connect**
-[![Website](https://img.shields.io/badge/🌐-Website-0A0A0A?style=flat&logo=vercel&logoColor=white)](https://kachielite.dev)
 [![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/derrickmadumere)
 [![Email](https://img.shields.io/badge/✉️-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:derrick.onyekachi@gmail.com)
